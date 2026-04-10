@@ -59,6 +59,7 @@ body:
       label: Additional Context
       description: >
         Any additional information that might be helpful in resolving this issue, such as:
+        
         - Error messages or stack traces
         - Relevant configuration files or code snippets
 
