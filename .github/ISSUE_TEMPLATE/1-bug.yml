@@ -64,7 +64,8 @@ body:
         - Error messages or stack traces
 
         - Relevant configuration files or code snippets
-        ...
+
+
         Tip: You can attach files or images by clicking this area to highlight 
         it and then dragging files in.
     validations:
