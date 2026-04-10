@@ -12,7 +12,8 @@ body:
       label: Content to remove
       description: >
         What specific page or notebook should be removed? Provide a full URL or path.
-      placeholder: "https://nasa-openscapes.github.io/earthdata-cloud-cookbook/how-tos/read_data.html"
+      placeholder: |
+        https://nasa-openscapes.github.io/earthdata-cloud-cookbook/how-tos/read_data.html
     validations:
       required: true
 

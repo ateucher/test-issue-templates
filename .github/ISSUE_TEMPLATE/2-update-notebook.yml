@@ -13,7 +13,8 @@ body:
       description: >
         What specific page or notebook needs to be updated? Provide a full URL
         or path.
-      placeholder: "https://nasa-openscapes.github.io/earthdata-cloud-cookbook/how-tos/read_data.html"
+      placeholder: |
+        https://nasa-openscapes.github.io/earthdata-cloud-cookbook/how-tos/read_data.html
     validations:
       required: true
 
