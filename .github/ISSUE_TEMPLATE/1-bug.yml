@@ -59,8 +59,9 @@ body:
       label: Additional Context
       description: >
         Any additional information that might be helpful in resolving this issue, such as:
-        
+
         - Error messages or stack traces
+        
         - Relevant configuration files or code snippets
 
         Tip: You can attach files or images by clicking this area to highlight it and then dragging files in.
